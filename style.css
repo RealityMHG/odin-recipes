@@ -1,16 +1,37 @@
 .title {
     font-family: cursive;
     font-weight: bold;
+    text-align: center;
+    padding: 8px;
 }
 
 .recipe {
     font-family: cursive;
     color: brown;
-    font-size: 30px;  
+    font-size: 30px;
+}
+
+.recipes {
+    padding: 20px;
+    margin: 24px 8px;
+}
+
+.pizza {
+    margin-bottom: 20px;
+}
+
+.beans {
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+
+.chicken {
+    margin-left: 80px;
+    margin-top: 20px;
 }
 
 .pizza-recipe {
-    background-color: lightcoral;
+    background-color: lightcoral; 
 }
 
 .beans-recipe {
