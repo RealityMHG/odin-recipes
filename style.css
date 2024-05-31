@@ -1,0 +1,44 @@
+.title {
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.recipe {
+    font-family: cursive;
+    color: brown;
+    font-size: 30px;  
+}
+
+.pizza-recipe {
+    background-color: lightcoral;
+}
+
+.beans-recipe {
+    background-color: lightsalmon;
+}
+
+.chicken-recipe {
+    background-color: lightseagreen;
+}
+
+h2 {
+    text-align: center;
+    font-family: cursive;
+}
+
+h4 {
+    font-family: cursive;
+}
+
+li {
+    font-family: cursive;
+}
+
+.index-body {
+    background-color: lightskyblue;
+}
+
+.back {
+    font-size: 30px;
+    font-family: cursive;
+}
